@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "159360098661",
+    "project_id": "bank-2d30b",
+    "storage_bucket": "bank-2d30b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159360098661:android:74021f9c7e1e24fa79c18c",
+        "android_client_info": {
+          "package_name": "com.mycompany.bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159360098661-rvnk0bsa5kdde9hsk0seoq5f33cv047p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.bank",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "159360098661-d1uhr1heree1dbtja93sctkgk12gn23t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTfJmZ2_zc9wQjrtheG34ABKKZie8Gigc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159360098661-d1uhr1heree1dbtja93sctkgk12gn23t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "159360098661-lmgp7n8mqd1u224jjotga4jmu9816n6l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.bank"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
