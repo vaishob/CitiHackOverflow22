@@ -1,4 +1,4 @@
-# bank
+# CitiInvest - Citi HackOverflow 2022
 
 A new Flutter project.
 
