@@ -1,6 +1,51 @@
 # CitiInvest - Citi HackOverflow 2022
+# Citi Wealth Management Application
 
-A new Flutter project.
+The Citi Wealth Management Application is designed to position Citi as the modern bank for wealth management solutions, catering to both clients and bankers in the Asia-Pacific market. It aims to drive client acquisition and strengthen client relationships by providing convenient access to important financial information and fostering improved communication between bankers and clients.
+
+## Features & Functionality
+
+### Authentication
+- **Login/Logout:** Users can authenticate as either a Client-level (Basic) user or a Banker-level (Admin).
+
+### Dashboard
+- **Banker Dashboard:** Provides bankers with easy access to client portfolios, transaction history, and other relevant information for effective wealth management.
+- **Client Dashboard:** Offers clients a consolidated view of their portfolio, including investment performance, asset allocation, and transaction details.
+
+### Portfolio Management
+- **Transparency:** Clients can conveniently access their portfolio information, enhancing transparency and fostering trust in Citi's wealth management solutions.
+
+### Chat Functionality
+- **Integrated Chat:** Facilitates real-time communication between bankers and clients, aiming to improve relationships and provide personalized financial advice.
+
+## Technologies Used
+
+- **Flutter (Frontend):** Utilized for developing a cross-platform mobile application with a modern and intuitive user interface.
+- **Firebase (Backend):** Employs Firebase for user authentication, real-time database management, and cloud storage, ensuring scalability, security, and reliability.
+
+## What's Next
+
+### Realtime Data
+- Implement real-time updates for portfolio information and transaction data, providing clients and bankers with the most up-to-date information.
+
+### Commercial Database
+- Integrate a commercial database to store and manage complex financial data, ensuring efficient data retrieval and analysis for wealth management operations.
+
+### TikTok Integration
+- Explore integration with social media platforms like TikTok to enhance brand visibility, engage with potential clients, and provide educational content on financial literacy.
+
+### Migration to Cloud
+- Migrate the application to a cloud-based infrastructure for improved scalability, flexibility, and cost-effectiveness, enabling seamless expansion and global accessibility.
+
+## Contributors
+
+- John Smith <john.smith@citi.com>
+- Jane Doe <jane.doe@citi.com>
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Getting Started
 
