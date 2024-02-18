@@ -37,11 +37,6 @@ The Citi Wealth Management Application is designed to position Citi as the moder
 ### Migration to Cloud
 - Migrate the application to a cloud-based infrastructure for improved scalability, flexibility, and cost-effectiveness, enabling seamless expansion and global accessibility.
 
-## Contributors
-
-- John Smith <john.smith@citi.com>
-- Jane Doe <jane.doe@citi.com>
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
