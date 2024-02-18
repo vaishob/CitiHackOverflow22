@@ -1,5 +1,5 @@
 # CitiInvest - Citi HackOverflow 2022
-# Citi Wealth Management Application
+## Citi Wealth Management Application
 
 The Citi Wealth Management Application is designed to position Citi as the modern bank for wealth management solutions, catering to both clients and bankers in the Asia-Pacific market. It aims to drive client acquisition and strengthen client relationships by providing convenient access to important financial information and fostering improved communication between bankers and clients.
 
